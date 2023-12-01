@@ -24,4 +24,4 @@ jobs:
 
     - name: Run piroattack
       run: |
-        piroattack https://ultramall.in/#/ -m random -s 10000 -w 500
+        piroattack https://ultramall.in/ -m random 
